@@ -1,13 +1,11 @@
-	"name": "Chellie&RoxyGaming bot",
-	"author": "Chelliebellie ",
+{
+	"name": "Discord-Bot-Maker-Bot",
+	"author": "Robert Borghese",
 	"main": "bot.js",
 	"version": "1.2.9",
- "main": "Chellie&RoxyGaming",
-  "scripts": {
-    "start": "node Chellie&RoxyGaming"
-  },
-  "dependencies": {
-    "discord.js": "11.1.0",
-    "request": "2.81.0"
-  }
+	"dependencies": {
+		"discord.js": "^11.2.0",
+		"fstorm": "^0.1.3",
+		"jimp": "^0.2.28"
+	}
 }
