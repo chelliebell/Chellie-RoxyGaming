@@ -2,9 +2,9 @@
 	"author": "Chelliebellie ",
 	"main": "bot.js",
 	"version": "1.2.9",
- "main": "bot.js",
+ "main": "Chellie&RoxyGaming",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node Chellie&RoxyGaming"
   },
   "dependencies": {
     "discord.js": "11.1.0",
